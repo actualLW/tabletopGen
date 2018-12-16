@@ -1,0 +1,9 @@
+version: 5.1.0
+files:
+  - url: angular-electron-5.1.0-x86_64.AppImage
+    sha512: o4IdyWQdhgKRu2zjrF3rDSFFv0g4kp+U33pDYr02U+Z3MR408VTLdYlX8B/6p7g5IeLJyFjyRDmz6lkmq9jyAw==
+    size: 52757770
+    blockMapSize: 56910
+path: angular-electron-5.1.0-x86_64.AppImage
+sha512: o4IdyWQdhgKRu2zjrF3rDSFFv0g4kp+U33pDYr02U+Z3MR408VTLdYlX8B/6p7g5IeLJyFjyRDmz6lkmq9jyAw==
+releaseDate: '2018-12-16T20:06:37.006Z'
